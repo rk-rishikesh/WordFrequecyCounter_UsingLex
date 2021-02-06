@@ -16,10 +16,15 @@ NOTE: Install in C:\Dev-Cpp
 
 Step 3: Add to PATH variable
         Add the following to the path variable:
+        
         C:\GnuWin32\bin
+        
         C:\Dev-Cpp\MinGW64\bin
+        
         C:\Dev-Cpp\MinGW64\libexec\gcc\x86_64-w64-mingw32\4.9.2
+        
         C:\Dev-Cpp\MinGW64\x86_64-w64-mingw32\bin
+        
         OR
         According to your machine installation the bin folder, version folder.
 
