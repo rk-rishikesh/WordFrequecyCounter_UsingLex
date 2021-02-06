@@ -25,7 +25,7 @@ Step 3: Add to PATH variable
 
 Follow the following steps to run the program
 
-  1.Open command prompt: type cmd
+        1.Open command prompt: type cmd
   
   2. Change directory to folder where you have saved the lex file ( having .l extension)
   
