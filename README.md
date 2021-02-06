@@ -27,10 +27,10 @@ Follow the following steps to run the program
 
         1.Open command prompt: type cmd
   
-  2. Change directory to folder where you have saved the lex file ( having .l extension)
+        2. Change directory to folder where you have saved the lex file ( having .l extension)
   
-  3. Run flex: flex count.l
+        3. Run flex: flex count.l
   
-  4. Then run c: gcc lex.yy.c
+        4. Then run c: gcc lex.yy.c
   
-  5. To run exe: type a.exe and hit enter
+        5. To run exe: type a.exe and hit enter
